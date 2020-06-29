@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract:We study the $\mathfrak{gl}_{1|1}$ supersymmetric XXX spin chains. We give an explicit description of the algebra of Hamiltonians acting on any cyclic tensor products of polynomial evaluation $\mathfrak{gl}_{1|1}$ Yangian modules. It follows that there exists a bijection between common eigenvectors (up to
+abstract:We study the $\\mathfrak{gl}_{1|1}$ supersymmetric XXX spin chains. We give an explicit description of the algebra of Hamiltonians acting on any cyclic tensor products of polynomial evaluation $\\mathfrak{gl}_{1|1}$ Yangian modules. It follows that there exists a bijection between common eigenvectors (up to
 proportionality) of the algebra of Hamiltonians and monic divisors of an explicit polynomial written in terms of the Drinfeld polynomials. In particular
 our result implies that each common eigenspace of the algebra of Hamiltonians has dimension one. We also give dimensions of the generalized eigenspaces. We
 show that when the tensor product is irreducible, then all eigenvectors can be constructed using Bethe ansatz. We express the transfer matrices associated to
