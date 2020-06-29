@@ -20,8 +20,8 @@ publishDate: "2015-12-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Mathematical Physics *57*, 101703 (2016)"
-publication_short: "J. Math. Phys. *57* (2016), 101703"
+publication: "Journal of Mathematical Physics **57**, 101703 (2016)"
+publication_short: "J. Math. Phys. **57** (2016), 101703"
 
 abstract: We derive explicit formulas for solutions of the Bethe ansatz equations of the Gaudin model associated to the tensor product of one arbitrary finite-dimensional irreducible module and one vector representation for all simple Lie algebras of classical type. We use this result to show that the Bethe ansatz is complete in any tensor product where all but one factor are vector representations and the evaluation parameters are generic.
 
