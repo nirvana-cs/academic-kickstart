@@ -1,5 +1,5 @@
 ---
-title: "Solutions of $\\mathfrak{gl}\_{m|n}$  XXX Bethe ansatz equation and rational difference operators"
+title: "Solutions of $\\mathfrak{gl}_{m|n}$  XXX Bethe ansatz equation and rational difference operators"
 authors:
 - Chenliang Huang
 - admin
