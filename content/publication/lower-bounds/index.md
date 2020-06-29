@@ -31,7 +31,7 @@ tags:
 - Bethe ansatz
 - Grassmannian
 - Schubert Calculus
-featured: true
+featured: false
 
 # links:
 # - name: ""
