@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a sixth-year math Ph.D. student at [Indiana University–Purdue University Indianapolis (IUPUI)](https://math.iupui.edu/), advised by [Evgeny Mukhin](https://www.math.iupui.edu/~mukhin/). I will be moving to [University of Denver](https://www.math.du.edu/) this fall as a Visiting Assitant Professor and my mentor will be [Andrew Linshaw](https://cs.du.edu/~alinshaw/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+*   Email: lukang\[at\]iu\[dot\]edu
+*   Address: 402 N. Blackford, LD 270, Indianapolis IN 46202
+*   Name in Chinese: 陆康
+*   My CV may be found [here](https://drive.google.com/file/d/1gievVe0lhLaa3js3ZTDF5RduY6Cc0JUh/view?usp=sharing).
