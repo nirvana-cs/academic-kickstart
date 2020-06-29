@@ -26,7 +26,7 @@ abstract:We study the $\mathfrak{gl}_{1|1}$ supersymmetric XXX spin chains. We g
 proportionality) of the algebra of Hamiltonians and monic divisors of an explicit polynomial written in terms of the Drinfeld polynomials. In particular
 our result implies that each common eigenspace of the algebra of Hamiltonians has dimension one. We also give dimensions of the generalized eigenspaces. We
 show that when the tensor product is irreducible, then all eigenvectors can be constructed using Bethe ansatz. We express the transfer matrices associated to
-symmetrizers and anti-symmetrizers of vector representations in terms of the first transfer matrix and the center of the Yangian.
+symmetrizers and antisymmetrizers of vector representations in terms of the first transfer matrix and the center of the Yangian.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
