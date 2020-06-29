@@ -1,5 +1,5 @@
 ---
-title: "Self-dual Grassmannian, Wronski map, and representations of $\mathfrak{gl}_N$, $\mathfrak{so}_{2r+1}$, $\mathfrak{sp}_{2r}$ "
+title: "Self-dual Grassmannian, Wronski map, and representations of $\\mathfrak{gl}_N$, $\\mathfrak{so}_{2r+1}$, $\\mathfrak{sp}_{2r}$ "
 authors:
 - admin
 - Evgeny Mukhin
