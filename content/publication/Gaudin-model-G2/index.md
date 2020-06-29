@@ -1,5 +1,5 @@
 ---
-title: "On the Gaudin model of type G$\_2$"
+title: "On the Gaudin model of type G2"
 authors:
 - admin
 - Evgeny Mukhin
