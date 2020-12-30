@@ -44,10 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:lukang@iupui.edu".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:kang.lu@du.edu".
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/lu_k_2.html
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=E1q3rDsAAAAJ
