@@ -14,7 +14,7 @@ role: Visiting Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Indiana University Purdue University Indianapolis
+- name: University of Denver
   url: "https://science.du.edu/math"
 
 # Short bio (displayed in user profile at end of posts)
