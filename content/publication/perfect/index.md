@@ -17,8 +17,8 @@ publishDate: "2020-12-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Symmetry, Integrability and Geometry: Methods and Applications **16** (2020), 132, 15 pages"
-publication_short: "SIGMA **16** (2020), 132, 15 pages"
+publication: "Symmetry, Integrability and Geometry: Methods and Applications **16** (2020), 132, 10 pages"
+publication_short: "SIGMA **16** (2020), 132, 10 pages"
 
 abstract: We suggest the notion of perfect integrability for quantum spin chains and conjecture that quantum spin chains are perfectly integrable. We show the perfect integrability for Gaudin models associated to simple Lie algebras of all finite types, with periodic and regular quasi-periodic boundary conditions.
 
