@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Mathematics
-    institution: Indiana University Purdue University Indianapolis
+    institution: Purdue University Indianapolis
     year: 2020
   - course: MSc in Mathematics
     institution: Zhejiang University
@@ -51,9 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=E1q3rDsAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nirvana-cs
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kang_Lu4
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Visiting Assistant Professor at [University of Denver](https://www.math.du.edu/) this fall as a Visiting Assitant Professor and my mentor will be [Andrew Linshaw](https://cs.du.edu/~alinshaw/). I received my Ph.D. in Mathematics from [Indiana University–Purdue University Indianapolis (IUPUI)](https://math.iupui.edu/), advised by [Evgeny Mukhin](https://www.math.iupui.edu/~mukhin/). 
+I am a Visiting Assistant Professor at [University of Denver](https://www.math.du.edu/) and my mentor will be [Andrew Linshaw](https://cs.du.edu/~alinshaw/). I received my Ph.D. in Mathematics from [Purdue University Indianapolis (IUPUI)](https://math.iupui.edu/), advised by [Evgeny Mukhin](https://www.math.iupui.edu/~mukhin/). 
 
 *   Email: Kang.Lu\[at\]DU\[dot\]edu
 *   Address: Knudson Hall 104, 2390 S. York St., Denver, CO 80208
