@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Visiting Assistant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Indiana University Purdue University Indianapolis
-  url: "https://math.iupui.edu"
+  url: "https://science.du.edu/math"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include representation theory, quantum algebras, and integrable systems.
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Mathematics
-    institution: Purdue University Indianapolis
+    institution: Indiana University Purdue University Indianapolis
     year: 2020
   - course: MSc in Mathematics
     institution: Zhejiang University
@@ -70,9 +70,9 @@ user_groups:
 - Visitors
 ---
 
-I am a sixth-year math Ph.D. student at [Indiana University–Purdue University Indianapolis (IUPUI)](https://math.iupui.edu/), advised by [Evgeny Mukhin](https://www.math.iupui.edu/~mukhin/). I will be moving to [University of Denver](https://www.math.du.edu/) this fall as a Visiting Assitant Professor and my mentor will be [Andrew Linshaw](https://cs.du.edu/~alinshaw/).
+I am a Visiting Assistant Professor at [University of Denver](https://www.math.du.edu/) this fall as a Visiting Assitant Professor and my mentor will be [Andrew Linshaw](https://cs.du.edu/~alinshaw/). I received my Ph.D. in Mathematics from [Indiana University–Purdue University Indianapolis (IUPUI)](https://math.iupui.edu/), advised by [Evgeny Mukhin](https://www.math.iupui.edu/~mukhin/). 
 
-*   Email: lukang\[at\]iu\[dot\]edu
-*   Address: 402 N. Blackford, LD 270, Indianapolis IN 46202
+*   Email: Kang.Lu\[at\]DU\[dot\]edu
+*   Address: Knudson Hall 104, 2390 S. York St., Denver, CO 80208
 *   Name in Chinese: 陆康
 *   My CV may be found [here](https://drive.google.com/file/d/1gievVe0lhLaa3js3ZTDF5RduY6Cc0JUh/view?usp=sharing).
