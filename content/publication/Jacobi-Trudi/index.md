@@ -29,10 +29,10 @@ In the process, we develop several missing parts of the representation theory of
 
 tags: 
 - super Yangian
-- Jacobi-Trudi identity
+- Jacobi  identity
 - degenerate affine Hecke algebra
 - Drinfeld functor
-- T-systems,
+- T systems,
 - transfer matrices
 featured: true
 
