@@ -1,5 +1,5 @@
 ---
-title: "Jacobi-Trudi identity and Drinfeld functor for super Yangian"
+title: "Jacobi Trudi identity and Drinfeld functor for super Yangian"
 authors:
 - admin
 - Evgeny Mukhin
@@ -22,7 +22,7 @@ publication: ""
 publication_short: ""
 
 abstract: We show that the quantum Berezinian which gives a generating function of the integrals of motions of XXX spin chains associated to super Yangian can be written as a ratio of two difference operators of orders m and n whose coefficients are ratios of transfer matrices corresponding to explicit skew Young diagrams.
-In the process, we develop several missing parts of the representation theory of super Yangian such as q\-character theory, Jacobi\-Trudi identity, Drinfeld functor, extended T\-systems, Harish\-Chandra map.
+In the process, we develop several missing parts of the representation theory of super Yangian such as character theory, Jacobi Trudi identity, Drinfeld functor, extended systems, Harish Chandra map.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
