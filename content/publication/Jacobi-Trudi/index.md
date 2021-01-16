@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2020-07-31T00:00:00Z"
-# doi: "10.3842/SIGMA.2020.132"
+ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-10T00:00:00Z"
