@@ -21,8 +21,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We show that the quantum Berezinian which gives a generating function of the integrals of motions of XXX spin chains associated to super Yangian $\mathrm{Y}(\mathfrak{gl}_{m|n})$ can be written as a ratio of two difference operators of orders m and n whose coefficients are ratios of transfer matrices corresponding to explicit skew Young diagrams.
-In the process, we develop several missing parts of the representation theory of $\mathrm{Y}(\mathfrak{gl}_{m|n})$ such as q-character theory, Jacobi-Trudi identity, Drinfeld functor, extended T-systems, Harish-Chandra map.
+abstract: We show that the quantum Berezinian which gives a generating function of the integrals of motions of XXX spin chains associated to super Yangian can be written as a ratio of two difference operators of orders m and n whose coefficients are ratios of transfer matrices corresponding to explicit skew Young diagrams.
+In the process, we develop several missing parts of the representation theory of super Yangian such as q-character theory, Jacobi-Trudi identity, Drinfeld functor, extended T-systems, Harish-Chandra map.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
