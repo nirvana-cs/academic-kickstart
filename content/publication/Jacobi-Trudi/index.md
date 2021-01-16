@@ -1,5 +1,5 @@
 ---
-title: "Jacobi\-Trudi identity and Drinfeld functor for super Yangian"
+title: "Jacobi-Trudi identity and Drinfeld functor for super Yangian"
 authors:
 - admin
 - Evgeny Mukhin
